@@ -10,12 +10,6 @@
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
   - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-  - [User Endpoints](#user-endpoints)
-  - [Admin Endpoints](#admin-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -70,8 +64,8 @@ Make sure you have the following installed:
 ### Environment Variables
    Create a .env file in the root directory and add the following environment variables:
      ```
-     PORT=5000
-     MONGO_URI=mongodb://localhost:27017/assignmentDB
+     PORT=5000 
+     MONGO_URI=mongodb://localhost:27017/assignmentDB 
      JWT_SECRET=mysecretkey 
      ```
 
