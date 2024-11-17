@@ -63,3 +63,18 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/AshwaniKharwar/assignment-portal.git
    cd assignment-portal
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+### Environment Variables
+   Create a .env file in the root directory and add the following environment variables:
+     ```
+     PORT=5000
+     MONGO_URI=mongodb://localhost:27017/assignmentDB
+     JWT_SECRET=mysecretkey 
+     ```
+
+### Running the Application
+    npm run dev
+
