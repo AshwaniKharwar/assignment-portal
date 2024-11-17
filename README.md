@@ -10,7 +10,7 @@
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
   - [Running the Application](#running-the-application)
-
+- [API Endpoints](#api-endpoints)
 ---
 
 ## Project Overview
@@ -71,4 +71,5 @@ Make sure you have the following installed:
 
 ### Running the Application
     npm run dev
-
+## API Endpoints
+[api](https://elements.getpostman.com/redirect?entityId=29786073-c7ffae3e-1d71-42f3-a438-1f034370070c&entityType=collection/)
